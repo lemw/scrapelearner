@@ -1,3 +1,4 @@
+## Initial testing, trying to learn....
 import requests
 from bs4 import BeautifulSoup
 
